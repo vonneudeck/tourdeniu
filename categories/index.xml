@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tour de Niu</title>
-    <link>https://vonneudeck.github.io/tourdeniu/categories/</link>
+    <link>https://tourdeniu.vonneudeck.com/categories/</link>
     <description>Recent content in Categories on Tour de Niu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</managingEditor>
-    <webMaster>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</webMaster><atom:link href="https://vonneudeck.github.io/tourdeniu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</webMaster><atom:link href="https://tourdeniu.vonneudeck.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
