@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tour de Niu</title>
+    <link>https://vonneudeck.github.io/tourdeniu/page/</link>
+    <description>Recent content in Pages on Tour de Niu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</managingEditor>
+    <webMaster>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</webMaster>
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vonneudeck.github.io/tourdeniu/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>https://vonneudeck.github.io/tourdeniu/archive/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <author>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</author>
+      <guid>https://vonneudeck.github.io/tourdeniu/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vonneudeck.github.io/tourdeniu/about/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <author>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</author>
+      <guid>https://vonneudeck.github.io/tourdeniu/about/</guid>
+      <description>Tour de Niu is my personal travel journal. In 2020, between the first two COVID-19 waves in Europe, I bought a used eletric scooter and did a tour through France. I want to share my experiences with my friends, family and the occasional stranger on the internet.
+Also I want to show a way to do low impact environmentally friendly tourism and encourage others to make their own dream tours. I hope you all enjoy what I post.</description>
+    </item>
+    
+  </channel>
+</rss>

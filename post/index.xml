@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tour de Niu</title>
+    <link>https://vonneudeck.github.io/tourdeniu/post/</link>
+    <description>Recent content in Posts on Tour de Niu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</managingEditor>
+    <webMaster>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</webMaster>
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vonneudeck.github.io/tourdeniu/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scooter</title>
+      <link>https://vonneudeck.github.io/tourdeniu/p/the-scooter/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <author>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</author>
+      <guid>https://vonneudeck.github.io/tourdeniu/p/the-scooter/</guid>
+      <description>After I made the decision to go on vacation it was time to buy a scooter. I wanted something low maintenance and reasonably modern, possibly with storage space under the seat:
+ For a long time I followed the developments around the AppScooter. I like the monocoque approach, the flexible triple battery approach and the gigantic trunc. But since its producer Etergo BV has been acquired by Ola Electric Mobility Pvt Ltd nothing has been heard of them.</description>
+    </item>
+    
+    <item>
+      <title>The Idea</title>
+      <link>https://vonneudeck.github.io/tourdeniu/p/the-plan/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <author>tourdeniu@vonneudeck.com (Nicolai von Neudeck)</author>
+      <guid>https://vonneudeck.github.io/tourdeniu/p/the-plan/</guid>
+      <description>My family owns a vacation house in Southern France. In a cute little village named Moux with narrow roads and old houses. The area is rural, full of vinyards and has a typical Mediterranean climate: Plenty of sun and almost no frost.
+The landscape is beautiful, right between the Massif Central and the Pyrenees. Traces of roman civilisation, wild gorges, old bridges, medieval buildings from modest castles to Cathar fortresses on the most remote mountain tops.</description>
+    </item>
+    
+  </channel>
+</rss>
