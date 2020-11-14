@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tourdeniu.vonneudeck.com/p/day-0/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <loc>https://tourdeniu.vonneudeck.com/p/day-1/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tourdeniu.vonneudeck.com/post/</loc>
-    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tourdeniu.vonneudeck.com/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tourdeniu.vonneudeck.com/p/day-0/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
   </url>
   
