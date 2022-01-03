@@ -1,73 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://tourdeniu.vonneudeck.com/p/day-4/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tourdeniu.vonneudeck.com/post/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tourdeniu.vonneudeck.com/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/day-3/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tourdeniu.vonneudeck.com/post/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tourdeniu.vonneudeck.com/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/day-2/</loc>
     <lastmod>2020-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/day-1/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/day-0/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/the-route/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/the-scooter/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/archive/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/page/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/the-plan/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/about/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/tags/</loc>
   </url>
-  
 </urlset>
