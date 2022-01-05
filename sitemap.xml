@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tourdeniu.vonneudeck.com/p/day-5/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tourdeniu.vonneudeck.com/post/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tourdeniu.vonneudeck.com/</loc>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tourdeniu.vonneudeck.com/p/vezelay/</loc>
+    <lastmod>2022-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tourdeniu.vonneudeck.com/p/day-5/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tourdeniu.vonneudeck.com/p/day-4/</loc>
